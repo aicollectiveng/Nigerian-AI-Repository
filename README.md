@@ -47,7 +47,6 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 
 ## Overview Page
----
 
 ### Mission Statement
 Why this repository exists.
@@ -60,7 +59,6 @@ Who it's for and how to use it.
 
 
 ## Learning & Media AI Executive Leadership Series
----
 
 ### Learning Series
 Videos, slides, transcriptions.
@@ -73,7 +71,6 @@ Syndicated links of AI in Nigerian news.
 
 
 ## Academic & Research Directory
----
 
 ### AI Researchers in Nigeria (AI Collective)
 Name, institution, domain, key works.
@@ -86,7 +83,6 @@ Titles, DOIs/links, themes.
 
 
 ## Nigerian AI Portfolio
----
 
 ### Public & NGO-Led Initiatives
 Gates Foundation, GIZ, etc.
@@ -103,7 +99,6 @@ Founders, domain, links.
 Products built by Nigerians (e.g. You & GPT).
 
 ## Ecosystem Maps
----
 
 ### Nigeria's AI Ecosystem: A Comprehensive Analysis of Stakeholders, Innovations, and Strategic Challenges
 
