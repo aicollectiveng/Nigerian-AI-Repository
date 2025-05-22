@@ -5,45 +5,42 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ![Alt text](https://github.com/aicollectiveng/Embeddings/blob/main/Nigerian%20AI%20Repository.png)<br>
 
 
-### General Information
-- [Overview Page](#overview-page)
-- [Mission Statement](#mission-statement)
-- [Scope](#scope)
-- [Access Guide](#access-guide)
+# AI Collective Repository
 
-### Learning & Media AI Executive Leadership Series
-- [Learning Series](#learning-series)
-- [Sector-Specific Webinars](#sector-specific-webinars)
-- [PR & News](#pr--news)
+## Table of Contents
 
-### Academic & Research Directory
-- [AI Researchers in Nigeria (AI Collective)](#ai-researchers-in-nigeria-ai-collective)
-- [Research Labs/Groups](#research-labsgroups)
-- [Published Works](#published-works)
-
-### Nigerian AI Portfolio
-- [Public & NGO-Led Initiatives](#public--ngo-led-initiatives)
-- [Private Sector Use Cases](#private-sector-use-cases)
-- [Academic-Industry Collaborations](#academic-industry-collaborations)
-- [Directory of AI Startups](#directory-of-ai-startups)
-
-### Ecosystem Maps
-- [Associations & Communities](#associations--communities)
-- [Events, Conferences & Webinars](#events-conferences--webinars)
-
-### National AI Strategy Documents
-- [Ethical Frameworks](#ethical-frameworks)
-- [Government Involvement](#government-involvement)
-
-### Diaspora Contributions
-- [Experts by Field](#experts-by-field)
-- [Mentorship/Contribution Records](#mentorshipcontribution-records)
-- [Diaspora Connect Portal](#diaspora-connect-portal)
-
-### Data & Open-Source Assets
-- [Datasets](#datasets)
-- [Codebases](#codebases)
-- [API Libraries & Frameworks](#api-libraries--frameworks)
+- [General Information](#general-information)
+    - [Overview Page](#overview-page)
+    - [Mission Statement](#mission-statement)
+    - [Scope](#scope)
+    - [Access Guide](#access-guide)
+- [Learning & Media AI Executive Leadership Series](#learning--media-ai-executive-leadership-series)
+    - [Learning Series](#learning-series)
+    - [Sector-Specific Webinars](#sector-specific-webinars)
+    - [PR & News](#pr--news)
+- [Academic & Research Directory](#academic--research-directory)
+    - [AI Researchers in Nigeria (AI Collective)](#ai-researchers-in-nigeria-ai-collective)
+    - [Research Labs/Groups](#research-labsgroups)
+    - [Published Works](#published-works)
+- [Nigerian AI Portfolio](#nigerian-ai-portfolio)
+    - [Public & NGO-Led Initiatives](#public--ngo-led-initiatives)
+    - [Private Sector Use Cases](#private-sector-use-cases)
+    - [Academic-Industry Collaborations](#academic-industry-collaborations)
+    - [Directory of AI Startups](#directory-of-ai-startups)
+- [Ecosystem Maps](#ecosystem-maps)
+    - [Associations & Communities](#associations--communities)
+    - [Events, Conferences & Webinars](#events-conferences--webinars)
+- [National AI Strategy Documents](#national-ai-strategy-documents)
+    - [Ethical Frameworks](#ethical-frameworks)
+    - [Government Involvement](#government-involvement)
+- [Diaspora Contributions](#diaspora-contributions)
+    - [Experts by Field](#experts-by-field)
+    - [Mentorship/Contribution Records](#mentorshipcontribution-records)
+    - [Diaspora Connect Portal](#diaspora-connect-portal)
+- [Data & Open-Source Assets](#data--open-source-assets)
+    - [Datasets](#datasets)
+    - [Codebases](#codebases)
+    - [API Libraries & Frameworks](#api-libraries--frameworks)
 
 
 ## Overview Page
@@ -102,7 +99,7 @@ Products built by Nigerians (e.g. You & GPT).
 
 ### Nigeria's AI Ecosystem: A Comprehensive Analysis of Stakeholders, Innovations, and Strategic Challenges
 
-This report provides a 360-degree examination of Nigeria’s AI ecosystem...
+This report provides a 360-degree examination of Nigeria’s AI ecosystem, mapping its stakeholders, analyzing their contributions, and addressing critical questions about infrastructure, governance, and scalability. Drawing from verified sources and institutional data, it highlights both breakthroughs and systemic gaps while proposing actionable recommendations. 
 
 ### Stakeholder Analysis
 
@@ -222,7 +219,7 @@ This report provides a 360-degree examination of Nigeria’s AI ecosystem...
 
 #### D. International and Diaspora Collaborators
 
-#####1. Google and Microsoft
+##### 1. Google and Microsoft
 
 - **Contributions:** 
 
