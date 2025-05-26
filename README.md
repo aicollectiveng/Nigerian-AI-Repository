@@ -81,9 +81,9 @@ How AI optimizes processes, reduces operational costs, and enhances productivity
  
 
 * **[Sector-Specific Webinars]()** – Thematic webinars focused on AI in health, education, finance, agriculture, and more.  
-  - Health: [HELIX Health AI](#)  
-  - Finance: [Flutterwave AI webinar](#)  
-  - Agriculture: [AgroTech AI Series](#)
+  - Health: [HHealth](#)  
+  - Finance: [Finance](#)  
+  - Agriculture: [Agriculture](#)
 
 * **[Media]()** – Slide decks, video recordings, and documents from presentations.  
   - [YouTube: NITDA AI Events](https://www.youtube.com/@NITDANigeria/videos)
