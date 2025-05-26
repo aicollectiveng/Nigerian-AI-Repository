@@ -63,25 +63,20 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Nigerian AI Collective Learning Series
 
-* **[AI Executive Leadership Learning Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)** – A 13-Week Learning Series on Leading and Winning in the AI Age for Nigerian Business Leaders and Executives - A Strategic Guide to Unlocking Value, Innovation & Responsible AI Adoption to Drive the Nigeria Industrial Sectoral Growth and Broader Socio-Economic Development
-* 1. [Understanding AI](https://youtu.be/DgcW27952QQ) – The Foundations of the 4th Industrial Revolution  
+ **[AI Executive Leadership Learning Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)** – A 13-Week Learning Series on Leading and Winning in the AI Age for Nigerian Business Leaders and Executives - A Strategic Guide to Unlocking Value, Innovation & Responsible AI Adoption to Drive the Nigeria Industrial Sectoral Growth and Broader Socio-Economic Development
+1. [Understanding AI](https://youtu.be/DgcW27952QQ) – The Foundations of the 4th Industrial Revolution  
 Explore how AI is not just a technology but a fundamental enabler of the First Industrial Revolution. This session will explore the essentials of artificial intelligence, its capabilities, and how it drives national strategic advantage and value creation across sectors, setting the stage for holistic adoption. 
 
-* 2. [AI for Emerging Markets](https://youtu.be/QJhV7QG6zIU) – Opportunities & Challenges 
-
+2. [AI for Emerging Markets](https://youtu.be/QJhV7QG6zIU) – Opportunities & Challenges 
 How AI can drive inclusive growth, economic development, and digital transformation in emerging economies like Nigeria – what are the practical opportunities in driving sustainable value for sectoral growth and development use cases in health, education, agriculture, financial inclusion, etc.  
 
-* 3. [The 5 Operational Pillars of the Nigerian National AI Strategy](https://youtu.be/mm6InwnaVGg)
-
+3. [The 5 Operational Pillars of the Nigerian National AI Strategy](https://youtu.be/mm6InwnaVGg)
 Operational Insights into Nigeria’s national AI strategy and what it means for industrial leaders  
-
  
-* 4. [AI as a Catalyst for Innovation and Breakthrough Solutions](https://youtu.be/R3P76tCH9Dc) 
-
+4. [AI as a Catalyst for Innovation and Breakthrough Solutions](https://youtu.be/R3P76tCH9Dc) 
 How AI accelerates product development, and innovation in products, services, and business models, fostering creativity and delivering competitive advantages in 
 
-* 5. [AI for Business Efficiency and Cost Reduction](https://youtu.be/QsvfS-45c14)
-
+5. [AI for Business Efficiency and Cost Reduction](https://youtu.be/QsvfS-45c14)
 How AI optimizes processes, reduces operational costs, and enhances productivity, with real-world examples of automation and resource management. 
  
 
