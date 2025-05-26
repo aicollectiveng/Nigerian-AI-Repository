@@ -85,12 +85,12 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 * **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
   - [YARNGPT](https://yarngpt.co/)  
-  - [Kudi](https://kudi.ai)  
-  - [uLesson AI Tutor](https://ulesson.com)
-
+  - [InkubaLM](https://lelapa.ai/inkubalm-a-small-language-model-for-low-resource-african-languages/)  
+  - [African Languages Lab](https://www.africanlanguageslab.com/)
+  - [CDIAL (Centre for Digitization of Indigenous African Languages)](https://indigenius.ai/)
 * **[Academic-Industry Collaborations]()** – Research partnerships and co-development:  
-  - [UNILAG x DSN AI Projects](#)  
-  - [Covenant University AI Research Lab](#)
+  - [New Collaborations](#)  
+  - [Other Collaborations](#)
 
 * **[Published Papers by Nigerian Researchers]()** – Peer-reviewed research from Nigerians in AI:  
   - [IEEE Xplore](https://ieeexplore.ieee.org/)  
@@ -149,14 +149,15 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Community of Practice Platforms
 
-* **[Social Media Handles]()**  
-  - [Twitter: @NITDANigeria](https://twitter.com/NITDANigeria)  
+* **[Social Media Handles]()** 
+  - [Youtube:Nigeria AI Collective](https://www.youtube.com/@aicollectiveng)
+  - [Twitter: @NITDANigeria](#)  
   - [LinkedIn: Nigeria AI Collective](#)
 
 * **[Diaspora Connect Portal]()** – A platform to collaborate with global Nigerian AI experts.  
   - [Link Placeholder](#)
 
-* **[Registration Form](https://bit.ly/AICollectiveRegister)** – Join the AI Collective.
+* **[Registration Form](https://ncair.nitda.gov.ng/aicollective/)** – Join the AI Collective.
 
 ---
 
