@@ -105,7 +105,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## National AI Strategy (NAIS)
 
-* **[NAIS Document](https://nitda.gov.ng/national-artificial-intelligence-strategy/)** – Full strategy text and summary.
+* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)** – Full strategy text and summary.
 
 * **[NAIS Unveiling and Launch Media](https://www.youtube.com/watch?v=6dL3gA3rGk4)** – Videos and press coverage.
 
@@ -148,7 +148,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 * **[Pictures from Events](https://ncair.nitda.gov.ng/gallery)** – Photo archives of hackathons, conferences, and workshops.
 
-* **[NAIS Document](https://nitda.gov.ng/national-artificial-intelligence-strategy/)** – Linked again here for easy access.
+* **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)**
 
 * **[Video Compilation of Minister’s Achievements]()** –  
   - [YouTube Highlights](https://www.youtube.com/@NITDANigeria/videos)
