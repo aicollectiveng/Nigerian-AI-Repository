@@ -64,7 +64,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Nigerian AI Collective Learning Series
 
 * **[AI Executive Leadership Learning Series]()** – A curated program for public and private sector leaders to understand, apply, and govern AI in Nigeria.  
-  - Example org: [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/)
+  - Youtube Learning Series: [Nigerian AI Collective Executive Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
 
 * **[Sector-Specific Webinars]()** – Thematic webinars focused on AI in health, education, finance, agriculture, and more.  
   - Health: [HELIX Health AI](#)  
@@ -84,7 +84,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [UNICEF Innovation](https://www.unicef.org/innovation)
 
 * **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
-  - [Data Science Nigeria Tools](https://www.datasciencenigeria.org/)  
+  - [YARNGPT](https://yarngpt.co/)  
   - [Kudi](https://kudi.ai)  
   - [uLesson AI Tutor](https://ulesson.com)
 
@@ -97,9 +97,18 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [arXiv.org - Nigeria AI](https://arxiv.org/search/cs?searchtype=author&query=nigeria)
 
 * **[Directory of AI Startups]()** – Sample entries:  
-  - [54gene](https://54gene.com) – Genomics AI  
-  - [Releaf](https://www.releaf.africa) – AI in agriculture  
-  - [CDcare](https://cdcare.ng) – AI-powered credit systems
+  - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
+  - [AfriHate](https://github.com/AfriHate/AfriHate) – Hate and Offensive Speech Detection for African Languages. 
+  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) – AI platform for cry interpretation of Newborns.
+  - [CyberAgric](https://cyberagric.com/) – AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
+  - [Awarri](https://www.awarri.com/) – Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
+  - [SpotOn](https://play.google.com/store/apps/details?id=com.app.spoton&hl=en&pli=1) – SpotOn is an innovative AI-driven platform designed to discover, create, and optimize opportunities for individuals and businesses of all sizes.
+  - [RetailLoop](https://www.retailloop.co/) – an AI-powered platform designed to optimize commerce for enterprises across global markets. 
+  - [NebulaPay](https://www.nebulapay.com/) – an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
+  - [Tensflare](https://tensflare.com/) - Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
+  - [ELZAI](https://www.elzai.com/) – ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
+  - [HeliumOS](https://heliumhealth.com/helium-os/) – Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
+  - [Unbabel](https://unbabel.com/) – This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
 
 ---
 
@@ -107,7 +116,7 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 * **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)** – Full strategy text and summary.
 
-* **[NAIS Unveiling and Launch Media](https://www.youtube.com/watch?v=6dL3gA3rGk4)** – Videos and press coverage.
+* **[NAIS Unveiling and Launch Media](https://nairametrics.com/2025/04/16/nigeria-launches-national-ai-strategy-to-drive-ai-development-and-productivity/)**
 
 * **[Government Involvement](https://nitda.gov.ng/)** – Key agencies:  
   - [NITDA](https://nitda.gov.ng)  
@@ -122,8 +131,15 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [AI in Finance - CBN Roundtable](#)
 
 * **[Hackathon]()** – Competitions & challenges:  
-  - [Zindi Africa Challenges](https://zindi.africa/competitions)  
-  - [DSN AI Bootcamp](https://www.datasciencenigeria.org/bootcamp/)
+  - [Zindi Africa Competitions](https://zindi.africa/)  
+  - [DSN AI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)
+  - [Masakhane Hackathon](https://www.masakhane.io/)
+  - [Lacuna Fund Challenges](https://lacunafund.org/)
+  - [Deep Learning Indaba](https://deeplearningindaba.com/2025/)
+  - [Kaggle African NLP Challenges](https://www.kaggle.com/)
+  - [AI Saturdays Africa](https://aisaturdays.com/)
+  - [AfricaHacks Hackathon](https://apply.africahacks.com/)
+
 
 * **[Onsite Events]()** – Past physical conferences & roundtables:  
   - [Nigerian AI Summit](#)  
