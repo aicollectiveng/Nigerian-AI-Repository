@@ -96,7 +96,8 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
   - [IEEE Xplore](https://ieeexplore.ieee.org/)  
   - [arXiv.org - Nigeria AI](https://arxiv.org/search/cs?searchtype=author&query=nigeria)
 
-* **[Directory of AI Startups]()** – Sample entries:  
+* **[Directory of AI Startups]()** – Sample entries: 
+  - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
   - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) – Hate and Offensive Speech Detection for African Languages. 
   - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) – AI platform for cry interpretation of Newborns.
@@ -127,8 +128,8 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 ## Events
 
 * **[Webinars by Sectoral Champions]()** – Examples:  
-  - [AI in Education - TETFund + NCAIR](#)  
-  - [AI in Finance - CBN Roundtable](#)
+  - [AI in Education - ](#)  
+  - [AI in Finance - ](#)
 
 * **[Hackathon]()** – Competitions & challenges:  
   - [Zindi Africa Competitions](https://zindi.africa/)  
@@ -147,12 +148,12 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ---
 
-## Community of Practice Platforms
+## Community Platforms
 
 * **[Social Media Handles]()** 
   - [Youtube:Nigeria AI Collective](https://www.youtube.com/@aicollectiveng)
-  - [Twitter: @NITDANigeria](#)  
-  - [LinkedIn: Nigeria AI Collective](#)
+  - [Twitter: @aicollectiveng](https://x.com/aicollectiveng)  
+  - [LinkedIn: Nigeria AI Collective](https://www.linkedin.com/company/nigeria-ai-collective/)
 
 * **[Diaspora Connect Portal]()** – A platform to collaborate with global Nigerian AI experts.  
   - [Link Placeholder](#)
@@ -176,9 +177,46 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Data & Open-Source Assets
 
-* **[Datasets](https://data.gov.ng/)** – Tagged by theme and license:  
-  - Health: [NCDC Open Datasets](#)  
-  - Education: [UBEC Data Portal](#)
+* **[Datasets]()** – A curated list of datasets supporting various African languages:  
+  - [TANZIL Dataset](https://tanzil.net/trans/) – Amharic, Hausa, Somali, Swahili, and others
+  - [MENYO-20k Dataset](https://github.com/uds-lsv/menyo-20k_MT) – Yorùbá-English
+  - [FFR Dataset](https://github.com/bonaventuredossou/ffr-v1) – Fon-French
+  - [Hausa Corpus](https://github.com/ijdutse/hausa-corpus) – Hausa-English
+  - [CCAligned Dataset](https://www.statmt.org/cc-aligned/) – 30 African Languages
+  - [ParaCrawl Dataset](https://paracrawl.eu/) – Somali, Swahili, and others
+  - [WikiMatrix Dataset](https://ai.meta.com/blog/wikimatrix/) – Swahili, Malagasy, Egyptian Arabic, and others
+  - [Ethiopian MT Datasets](https://github.com/AAUThematic4LT/Parallel-Corpora-for-Ethiopian-Languages) – 7 Ethiopian Languages
+  - [English-Luganda Dataset](https://zenodo.org/records/4764039#.YLYHb9gzaUk) – English-Luganda
+  - [French-Fon and French-Ewe Dataset](https://github.com/kingabzpro/French-to-Fongbe-and-Ewe-MT) – French-Fon, French-Ewe
+  - [Amharic-English Dataset](https://www.findke.ovgu.de/findke/en/Research/Data+Sets/Amharic_English+Parallel+Corpus-p-1144.html) – Amharic-English
+  - [Tigrinya-English Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-tigrinya-english/) – Tigrinya-English
+  - [Lingala-French Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-lingala-french/) – Lingala-French
+  - [Swahili-French Dataset](https://gamayun.translatorswb.org/download/monosw-fr/) – Swahili-French
+  - [English-Hausa Dataset](https://gamayun.translatorswb.org/download/gamayun-5k-english-hausa/) – English-Hausa
+  - [English-Swahili Dataset](https://gamayun.translatorswb.org/download/gamayun-5k-english-swahili/) – English-Swahili
+  - [English-Kanuri Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-kanuri-english/) – English-Kanuri
+  - [English-Akuapem Twi Dataset](https://zenodo.org/records/4432117#.YMEF3fkzbIU) – English-Akuapem Twi
+  - [FLORES-101 Dataset](#) – 20 African Languages
+  - [isiXhosa-English Dataset](#) – isiXhosa-English
+  - [Tatoeba Dataset](#) – 28 African Languages
+  - [Gnome Dataset](#) – 16 African Languages
+  - [Ubuntu Dataset](#) – 24 African Languages
+  - [OPUS-100 Dataset](#) – 9 African Languages
+  - [TICO-19 Dataset](#) – 13 African Languages
+  - [Mozilla Localization Dataset](#) – 18 African Languages
+  - [KINNEWS and KIRNEWS Dataset](#) – Kinyarwanda, Kirundi
+  - [Setswana and Sepedi News Dataset](#) – Setswana, Sepedi
+  - [Swahili News Dataset](#) – Swahili
+  - [Amharic News Text Classification Dataset](#) – Amharic
+  - [VOA Hausa and BBC Yoruba News Classification Dataset](https://github.com/Andrews2017/af) – Hausa, Yoruba
+  - [NaijaWeb Dataset](#) – Nigerian Pidgin, English
+  - [MasakhaNER 2.0 Dataset](https://lacunafund.org/datasets/language/) – 20 African Languages
+  - [IrokoBench Dataset](https://arxiv.org/abs/2406.03368) – 16 African Languages
+  - [InkubaLM Dataset](https://arxiv.org/abs/2408.17024) – Multiple African Languages
+  - [MAFAND-MT Dataset](https://lacunafund.org/datasets/language/) – 16 African Languages
+  - [Common Voice Dataset](https://commonvoice.mozilla.org/en/datasets) – Various African Languages
+  - [AfriSenti-SemEval Dataset](https://github.com/afrisenti-semeval/afrisent-semeval-2023) – 14 African Languages
+  - [African Proverbs API](https://github.com/elvis-ndubuisi/african-proverbs) – Multiple African Languages
 
 * **[Codebases](https://github.com/NITDA-AICollective)** – AI repos by Nigerian developers and institutions.
 
