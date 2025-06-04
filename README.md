@@ -103,13 +103,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ## Nigerian AI Collective Learning Series
 
-* **[AI Executive Leadership Learning Series]()** – A curated program for public and private sector leaders to understand, apply, and govern AI in Nigeria.  
-  - Youtube Learning Series: [Nigerian AI Collective Executive Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
 
 * **[Sector-Specific Webinars]()** – Thematic webinars focused on AI in health, education, finance, agriculture, and more.  
-  - Health: [HELIX Health AI](#)  
-  - Finance: [Flutterwave AI webinar](#)  
-  - Agriculture: [AgroTech AI Series](#)
+  - Health: [HHealth](#)  
+  - Finance: [Finance](#)  
+  - Agriculture: [Agriculture](#)
 
 * **[Media]()** – Slide decks, video recordings, and documents from presentations.  
   - [YouTube: NITDA AI Events](https://www.youtube.com/@NITDANigeria/videos)
