@@ -1,11 +1,5 @@
-## Nigerian-AI-Repository <br>
-A catalogue of the full spectrum of AI advancement in the country — from documented innovation use cases and data collection initiatives to emerging tools and technologies supporting AI implementation. It also features notable events, news, and key milestones that highlight Nigeria's growing footprint in the global AI ecosystem.<br>
-
-
-![Alt text](https://github.com/aicollectiveng/Embeddings/blob/main/NAIR%201.png)<br>
-
-
 # AI Collective Repository
+A catalogue of the full spectrum of AI advancement in the country — from documented innovation use cases and data collection initiatives to emerging tools and technologies supporting AI implementation. It also features notable events, news, and key milestones that highlight Nigeria's growing footprint in the global AI ecosystem.
 
 ## Table of Contents
 
@@ -53,42 +47,61 @@ A catalogue of the full spectrum of AI advancement in the country — from docum
 
 ## Nigerian AI Collective Overview Page
 
-* **[Mission Statement]()** – Why this repository exists: to map, document, and amplify Nigeria’s AI ecosystem across public, private, academic, and diaspora sectors.
+* **[Mission Statement]()** – 
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone—regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-* **[Scope]()** – Covers the Nigerian National AI Strategy (NAIS), executive leadership learning series, AI startup directory, public initiatives, and collaborative research projects.
+* **[Scope]()** – 
+The AI Collective repository exists to democratize access to artificial intelligence by fostering a collaborative, transparent, and inclusive community. Our mission is to accelerate AI innovation for the collective good, ensuring that AI research, tools, and practices are openly shared, ethically developed, and accessible to everyone—regardless of background or affiliation. We believe in the power of collective intelligence and open-source collaboration to shape a future where AI benefits all of humanity, not just a select few.
 
-* **[Access Guide]()** – Designed for policymakers, researchers, students, developers, investors, and media. Navigate sections to find relevant datasets, tools, and communities.
+* **[Access Guide]()** 
 
+**Who is this for?**
+
+Researchers and academics seeking the latest AI developments or wishing to contribute new findings.
+Developers and engineers looking for open-source AI tools, models, and codebases.
+Entrepreneurs and startups exploring AI-driven solutions and business models.
+Policymakers, advocates, and ethicists interested in the societal impacts and governance of AI.
+Students and enthusiasts eager to learn, experiment, or join a collaborative AI community.
+
+**How to use this repository:**
+
+**Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type. Use tags like #opensource, #free, #policy, or #startup to filter content.
+
+**Contribute:** Fork the repository, add your resources, research, or tools, and submit a pull request. Review the Contribution Guidelines for best practices and requirements.
+
+**Collaborate:** Join discussions, propose new initiatives, or help review and improve existing content. The community thrives on active participation and diverse perspectives.
+
+**Learn:** Access tutorials, guides, and recommended learning paths for all experience levels, from beginners to advanced practitioners.
+
+**Stay Updated:** Watch the repository or join our community channels to receive updates on new contributions, events, and collaborative projects.
+
+By engaging with the AI Collective, you join a global effort to make artificial intelligence more open, ethical, and impactful for everyone.
+
+
+![Alt text](https://github.com/aicollectiveng/Embeddings/blob/main/Nigerian%20AI%20Repository.png)<br>
 ---
 
 ## Nigerian AI Collective Learning Series
-* **[AI Executive Leadership Learning Series]()** – A curated program for public and private sector leaders to understand, apply, and govern AI in Nigeria.  
-  - Youtube Learning Series: [Nigerian AI Collective Executive Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)
 
- **[AI Executive Leadership Learning Series](https://www.youtube.com/playlist?list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt)** – A 13-Week Learning Series on Leading and Winning in the AI Age for Nigerian Business Leaders and Executives - A Strategic Guide to Unlocking Value, Innovation & Responsible AI Adoption to Drive the Nigeria Industrial Sectoral Growth and Broader Socio-Economic Development
-1. [Understanding AI](https://youtu.be/DgcW27952QQ) – The Foundations of the 4th Industrial Revolution  
-Explore how AI is not just a technology but a fundamental enabler of the First Industrial Revolution. This session will explore the essentials of artificial intelligence, its capabilities, and how it drives national strategic advantage and value creation across sectors, setting the stage for holistic adoption. 
 
-2. [AI for Emerging Markets](https://youtu.be/QJhV7QG6zIU) – Opportunities & Challenges 
-How AI can drive inclusive growth, economic development, and digital transformation in emerging economies like Nigeria – what are the practical opportunities in driving sustainable value for sectoral growth and development use cases in health, education, agriculture, financial inclusion, etc.  
+* **[AI Collective Learning Series]()** – Welcome to our exclusive and immersive 13-week learning series, meticulously designed to demystify the world of artificial intelligence and equip you with the knowledge and strategies to drive innovation, efficiency, and growth.
+  - Episode 1: [Understanding AI](https://www.youtube.com/watch?v=DgcW27952QQ&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=13)  
+  - Episode 2: [AI for Emerging Markets](https://www.youtube.com/watch?v=QJhV7QG6zIU&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=12)
+  - Episode 3: [The 5 Operational Pillars of the Nigerian AI Strategy](https://www.youtube.com/watch?v=mm6InwnaVGg&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=11)
+  - Episode 4: [AI Catalysts for Innovation and Breakthrough Solutions](https://www.youtube.com/watch?v=R3P76tCH9Dc&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=10)
+  - Episode 5: [AI for Business Efficiency and Cost Reduction](https://www.youtube.com/watch?v=QsvfS-45c14&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=6)
+  - Episode 6: [AI as a Driver of Business Growth and New Revenue](https://www.youtube.com/watch?v=bWZ4hx-p1tg&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=4)
+  - Episode 7: [AI, Future of Work & Workforce Transformation](https://www.youtube.com/watch?v=aUAdKJhicJI&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=3)
+  - Episode 8: [Customer-Centric AI](https://www.youtube.com/watch?v=3UJyKniOLao&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=2)
+  - Episode 9: [AI in Sustainability – Driving ESG Goals Through Technology](https://www.youtube.com/watch?v=z2olfwo5l90&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=1)
+  - Episode 10: [Risk Management – AI-Powered Predictive and Preventive Strategies](https://www.youtube.com/watch?v=c2BFNizBs0I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=9)
+  - Episode 11: [Ethical AI – Balancing Profit and Principles](https://www.youtube.com/watch?v=kaGVY_N93YY&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=8)
+  - Episode 12: [AI Governance – Managing Risks & Compliance in AI Adoption](https://www.youtube.com/watch?v=iHgdKq4vdrQ&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=7)
+  - Episode 13: [AI for Social Good and Shared Prosperity](https://www.youtube.com/watch?v=EnRh69bgG9I&list=PLZLNl5L70BlFvUXnrEOkLcyeRjrxSrtgt&index=5)
+  
 
-3. [The 5 Operational Pillars of the Nigerian National AI Strategy](https://youtu.be/mm6InwnaVGg)
-Operational Insights into Nigeria’s national AI strategy and what it means for industrial leaders  
- 
-4. [AI as a Catalyst for Innovation and Breakthrough Solutions](https://youtu.be/R3P76tCH9Dc) 
-How AI accelerates product development, and innovation in products, services, and business models, fostering creativity and delivering competitive advantages in 
-
-5. [AI for Business Efficiency and Cost Reduction](https://youtu.be/QsvfS-45c14)
-How AI optimizes processes, reduces operational costs, and enhances productivity, with real-world examples of automation and resource management. 
- 
-
-* **[Sector-Specific Webinars]()** – Thematic webinars focused on AI in health, education, finance, agriculture, and more.  
-  - Health: [Health](#)  
-  - Finance: [Finance](#)  
-  - Agriculture: [Agriculture](#)
-
-* **[Media]()** – Slide decks, video recordings, and documents from presentations.  
-  - [YouTube: NITDA AI Events](https://www.youtube.com/@NITDANigeria/videos)
+* **[Media]()** – Join Our Youtube Community by Subscribing to our Channel.
+  - [YouTube: Nigerian AI COllective Learning Series](https://www.youtube.com/@aicollectiveng/playlists)
 
 ---
 
@@ -146,6 +159,7 @@ How AI optimizes processes, reduces operational costs, and enhances productivity
 * **[Webinars by Sectoral Champions]()** – Examples:  
   - [AI in Education - ](#)  
   - [AI in Finance - ](#)
+  - [AI in Health - ](#)
 
 * **[Hackathon]()** – Competitions & challenges:  
   - [Zindi Africa Competitions](https://zindi.africa/)  
@@ -185,7 +199,7 @@ How AI optimizes processes, reduces operational costs, and enhances productivity
 * **[NAIS Document](https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf)**
 
 * **[Video Compilation of Minister’s Achievements]()** –  
-  - [YouTube Highlights](https://www.youtube.com/@NITDANigeria/videos)
+  - [YouTube Highlights](#)
 
 * **[PR & News](https://guardian.ng/tag/artificial-intelligence/)** – Syndicated media coverage.
 
@@ -253,8 +267,7 @@ How AI optimizes processes, reduces operational costs, and enhances productivity
 ## Awards
 
 * **[AI Awards]()** –  
-  - [TechCabal Future Awards](https://techcabal.com)  
-  - [AI 100 Nigeria](#)
+
 
 ---
 
@@ -262,5 +275,4 @@ How AI optimizes processes, reduces operational costs, and enhances productivity
 
 * **[Conference Papers]()**  
   - [NeurIPS](https://proceedings.neurips.cc/)  
-  - [ICLR](https://iclr.cc/)  
-  - [AI4D Africa Symposium](https://ai4d.ai/)
+  - [ICLR](https://iclr.cc/)
