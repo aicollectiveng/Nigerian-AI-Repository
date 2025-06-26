@@ -101,7 +101,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   
 
 * **[Media]()** – Join Our Youtube Community by Subscribing to our Channel.
-  - [YouTube: Nigerian AI COllective Learning Series](https://www.youtube.com/@aicollectiveng/playlists)
+  - [YouTube: Nigerian AI Collective Learning Series](https://www.youtube.com/@aicollectiveng/playlists)
 
 ---
 
