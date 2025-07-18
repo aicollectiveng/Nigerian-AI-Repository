@@ -65,7 +65,7 @@ Students and enthusiasts eager to learn, experiment, or join a collaborative AI 
 
 **How to use this repository:**
 
-**Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type. Use tags like #opensource, #free, #policy, or #startup to filter content.
+**Explore:** Browse curated lists of AI tools, research, and resources organized by topic and type.
 
 **Contribute:** Fork the repository, add your resources, research, or tools, and submit a pull request. Review the Contribution Guidelines for best practices and requirements.
 
@@ -108,9 +108,15 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 ## Nigerian AI Portfolio
 
 * **[Public & NGO-Led Initiatives]()** – Includes projects by:  
-  - [Gates Foundation](https://www.gatesfoundation.org)  
-  - [GIZ Nigeria](https://www.giz.de/en/worldwide/324.html)  
-  - [UNICEF Innovation](https://www.unicef.org/innovation)
+  - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
+  - [National Centre for Artificial Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/) -  Nigeria’s flagship research and development center focusing on AI, robotics, and fourth industrial revolution technologies. Supports innovation through research, infrastructure, and skills development.
+  - [AI In Nigeria (AIN) Platform](https://aiinnigeria.com/about-us/) - A broad-based movement aiming to establish Nigeria as a global AI hub, facilitating innovation and partnerships across government and civil society.
+  - [Service-Wise GPT – Public Service Transformation](https://www.ohcsf.gov.ng/post-nigeria_unveils_ai_driven_public_service_transformation__at_global_government_summit_2025) - A government-led initiative providing AI-powered tools (like Service-Wise GPT) to revolutionize public service delivery and citizen engagement.
+  - [Collaborative Centre for AI, Nigeria (CCAI)](https://www.cosmopolitan.edu.ng/collaborative-centre-for-ai) - A multidisciplinary hub for collaborative research and development across academic and public sectors, advancing AI technologies and governance.
+  - [Nigeria AI Accelerator Programme (with Meta)](https://techpoint.africa/news/nigeria-meta-ai-accelerator/) -  A government partnership with Meta (Facebook) to support startups building AI-driven solutions that tackle Nigeria’s social and economic challenges. Provides mentorship, technical resources, and sectoral support, managed by the National Information Technology Development Agency (NITDA).
+  - [Artificial Intelligence Industry Collective (AI Collective)](https://ncair.nitda.gov.ng/aicollective/) - A coalition of civil society, academic, private, and governmental players advancing responsible and inclusive AI development and adoption, emphasizing ethical and social impact.
+  - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
+  - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
 
 * **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
   - [YARNGPT](https://yarngpt.co/)  
@@ -125,7 +131,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [IEEE Xplore](https://ieeexplore.ieee.org/)  
   - [arXiv.org - Nigeria AI](https://arxiv.org/search/cs?searchtype=author&query=nigeria)
 
-* **[Directory of AI Startups]()** – Sample entries: 
+* **[Directory of AI Startups]()** – 
   - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
   - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
   - [AfriHate](https://github.com/AfriHate/AfriHate) – Hate and Offensive Speech Detection for African Languages. 
@@ -139,6 +145,23 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [ELZAI](https://www.elzai.com/) – ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
   - [HeliumOS](https://heliumhealth.com/helium-os/) – Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
   - [Unbabel](https://unbabel.com/) – This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
+  BetaLife Health — An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
+    - [Bunce](https://betalifehealth.com/) — A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
+    - [Intron Health](https://speech.intron.health/login) — Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
+    - [Lendsqr](https://lendsqr.com/nigeria) — A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
+    - [DRO Health](https://drohealth.com/) — An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
+    - [E-doc Online](https://e-doconline.co.uk/home) — Offers an AI-powered compliance and credit intelligence solution, using real-time banking data to streamline onboarding and automate lending decisions for financial institutions.
+    - [GoNomad](https://gonomadhq.com/) — Helps freelancers and businesses in Africa use AI to automate business registration and receive payments internationally, bridging gaps for cross-border entrepreneurship
+    - [Middleman](https://www.midddleman.co/) — AI-enhanced sourcing and payments platform, streamlining and automating imports from China for African businesses with intelligent supply chain optimization.
+    - [Myltura](https://myitura.com/) — Digital health platform using AI to provide remote healthcare, diagnostic access, and integrated data services, supporting patients and providers with timely, personalized insights.
+    - [Pastel](https://www.pastel.africa/) — Delivers AI fraud detection and enterprise-grade automation solutions for banks and fintechs, improving security and transaction monitoring.
+    - [Scandium](https://getscandium.com/) — Specializes in AI-powered quality assurance for software teams, automating bug detection and accelerating product releases.
+    - [Interactif AI](https://www.interactif.ai/) — Builds conversational AI and chatbot solutions for enterprises, leveraging natural language processing for customer engagement and automation. 
+    - [Curacel](https://www.curacel.co/) — Integrates AI to automate insurance claims processing, expense validation, and fraud detection, serving healthcare insurers and financial institutions.
+    - [Richly AI Limited](https://richlyai.com/) — Applies machine learning to predictive analytics, process automation, and business intelligence for corporate clients in Nigeria.
+    - [AwaDoc](https://www.awadoc.com/) — AI-powered platform facilitating remote medical consultations and healthcare advice through conversational bots, increasing healthcare accessibility.
+    - [SeamlessHR](https://seamlesshr.com/) — Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
+    - [CapitalSage](https://www.capitalsage.ng/) — Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
 
 ---
 
