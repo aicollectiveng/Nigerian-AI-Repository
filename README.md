@@ -127,9 +127,23 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [New Collaborations](#)  
   - [Other Collaborations](#)
 
-* **[Published Papers by Nigerian Researchers]()** – Peer-reviewed research from Nigerians in AI:  
-  - [IEEE Xplore](https://ieeexplore.ieee.org/)  
-  - [arXiv.org - Nigeria AI](https://arxiv.org/search/cs?searchtype=author&query=nigeria)
+* **[Published Papers by Nigerian Researchers]()** – Peer-reviewed research from Nigerians in AI:
+  - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)  
+  - [How Effective Are AI Models in Translating English Scientific Texts to Nigerian Pidgin: A Low-resource Language?](https://openreview.net/pdf?id=hDzVxEUN5C)  
+  - [Geo-Semantics Analysis of Environmental Disasters in Nigeria](https://www.climatechange.ai/papers/iclr2025/53)
+  - [AI in Yoruba STEM Education for Early Childhood Learning: An Evaluation on Translation Quality and Context](https://openreview.net/forum?id=scSLeA8DJr&referrer=%5Bthe%20profile%20of%20Ife%20Adebara%5D(%2Fprofile%3Fid%3D~Ife_Adebara1))
+  - [Untapping African Music with AI: Investigating Music Source Separation Models for Low-Resource African Languages](https://openreview.net/attachment?id=q92ruhXB5F&name=pdf)
+  - [Evaluating Speech To Text For Children With Speech Impairment](https://openreview.net/forum?id=orUUGhNU1x&referrer=%5Bthe%20profile%20of%20Ife%20Adebara%5D(%2Fprofile%3Fid%3D~Ife_Adebara1))
+  - [Bridging The Language Gap: Evaluating Machine Translation For Animal Health In Lowresource Settings](https://openreview.net/pdf?id=6BCO7bqnjO)
+  - [Neural Machine Translators (NMTs) as Efficient Forward and Backward Arabic Transliterators](https://openreview.net/pdf?id=Lu9KcdJhIi)
+  - [Leveraging Geo-Nlp For Enhanced Antiretroviral Drug Distribution In Nigeria: Insights From Social Media And News Data](https://openreview.net/pdf?id=PLmuA9o9CL)
+  - [Harnessing the Benefits of AI: A Blueprint for Nigeria](https://www.lbs.edu.ng/harnessing-the-benefits-of-ai-a-blueprint-for-nigeria/)
+  - [Artificial Intelligence in Nigeria: A Catalyst for Economic Growth, Innovation, and Technological Advancement](https://fnasjournals.com/index.php/FNAS-JCA/article/download/677/586/1104)
+  - [The Impact of Artificial Intelligence in University Education in Nigeria](https://www.irejournals.com/paper-details/1708285)
+  - [Artificial Intelligence (AI) in Education: Integration of AI Into Science Curricula at Nigerian Universities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733349)
+  - [AI-Powered Verification: Fighting Misinformation in Nigeria](https://abjournals.org/bjmcmr/papers/volume-5/issue-1/ai-powered-verification-fighting-misinformation-in-nigeria/)
+  - [Artificial Intelligence: Opportunities, Issues and Applications in Banking, Accounting, and Auditing in Nigeria](https://journalajeba.com/index.php/AJEBA/article/view/241)
+  - [Artificial Intelligence in Nigeria: Challenges and Opportunities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5269530)
 
 * **[Directory of AI Startups]()** – 
   - [EqualyzAI](https://equalyz.ai/) — Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
