@@ -132,36 +132,36 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [arXiv.org - Nigeria AI](https://arxiv.org/search/cs?searchtype=author&query=nigeria)
 
 * **[Directory of AI Startups]()** – 
-  - [EqualyzAI](https://equalyz.ai/) - Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
-  - [MasakhaNER](https://www.masakhane.io/) - Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
-  - [AfriHate](https://github.com/AfriHate/AfriHate) – Hate and Offensive Speech Detection for African Languages. 
-  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) – AI platform for cry interpretation of Newborns.
-  - [CyberAgric](https://cyberagric.com/) – AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
-  - [Awarri](https://www.awarri.com/) – Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
-  - [SpotOn](https://play.google.com/store/apps/details?id=com.app.spoton&hl=en&pli=1) – SpotOn is an innovative AI-driven platform designed to discover, create, and optimize opportunities for individuals and businesses of all sizes.
-  - [RetailLoop](https://www.retailloop.co/) – an AI-powered platform designed to optimize commerce for enterprises across global markets. 
-  - [NebulaPay](https://www.nebulapay.com/) – an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
-  - [Tensflare](https://tensflare.com/) - Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
-  - [ELZAI](https://www.elzai.com/) – ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
-  - [HeliumOS](https://heliumhealth.com/helium-os/) – Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
-  - [Unbabel](https://unbabel.com/) – This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
-  BetaLife Health — An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
-    - [Bunce](https://betalifehealth.com/) — A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
-    - [Intron Health](https://speech.intron.health/login) — Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
-    - [Lendsqr](https://lendsqr.com/nigeria) — A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
-    - [DRO Health](https://drohealth.com/) — An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
-    - [E-doc Online](https://e-doconline.co.uk/home) — Offers an AI-powered compliance and credit intelligence solution, using real-time banking data to streamline onboarding and automate lending decisions for financial institutions.
-    - [GoNomad](https://gonomadhq.com/) — Helps freelancers and businesses in Africa use AI to automate business registration and receive payments internationally, bridging gaps for cross-border entrepreneurship
-    - [Middleman](https://www.midddleman.co/) — AI-enhanced sourcing and payments platform, streamlining and automating imports from China for African businesses with intelligent supply chain optimization.
-    - [Myltura](https://myitura.com/) — Digital health platform using AI to provide remote healthcare, diagnostic access, and integrated data services, supporting patients and providers with timely, personalized insights.
-    - [Pastel](https://www.pastel.africa/) — Delivers AI fraud detection and enterprise-grade automation solutions for banks and fintechs, improving security and transaction monitoring.
-    - [Scandium](https://getscandium.com/) — Specializes in AI-powered quality assurance for software teams, automating bug detection and accelerating product releases.
-    - [Interactif AI](https://www.interactif.ai/) — Builds conversational AI and chatbot solutions for enterprises, leveraging natural language processing for customer engagement and automation. 
-    - [Curacel](https://www.curacel.co/) — Integrates AI to automate insurance claims processing, expense validation, and fraud detection, serving healthcare insurers and financial institutions.
-    - [Richly AI Limited](https://richlyai.com/) — Applies machine learning to predictive analytics, process automation, and business intelligence for corporate clients in Nigeria.
-    - [AwaDoc](https://www.awadoc.com/) — AI-powered platform facilitating remote medical consultations and healthcare advice through conversational bots, increasing healthcare accessibility.
-    - [SeamlessHR](https://seamlesshr.com/) — Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
-    - [CapitalSage](https://www.capitalsage.ng/) — Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
+  - [EqualyzAI](https://equalyz.ai/) — Works with native speakers to collect rich, hyperlocal data—driving AI forward and creating real economic value for African communities.
+  - [MasakhaNER](https://www.masakhane.io/) — Masakhane welcomes everyone, no matter their NLP experience, fostering inclusiveness and knowledge sharing.
+  - [AfriHate](https://github.com/AfriHate/AfriHate) — Hate and Offensive Speech Detection for African Languages. 
+  - [Ubenwa (Nanni AI)](https://www.ubenwa.ai/) — AI platform for cry interpretation of Newborns.
+  - [CyberAgric](https://cyberagric.com/) — AI-powered mobile app that diagnoses crop diseases through image analysis and provides tailored treatment recommendations.
+  - [Awarri](https://www.awarri.com/) — Awarri is building an inclusive AI infrastructure that supports Nigeria’s local creator and developer ecosystem. 
+  - [SpotOn](https://play.google.com/store/apps/details?id=com.app.spoton&hl=en&pli=1) — SpotOn is an innovative AI-driven platform designed to discover, create, and optimize opportunities for individuals and businesses of all sizes.
+  - [RetailLoop](https://www.retailloop.co/) — an AI-powered platform designed to optimize commerce for enterprises across global markets. 
+  - [NebulaPay](https://www.nebulapay.com/) — an AI-powered conversational payment platform designed to simplify recurring transactions in their local languages.
+  - [Tensflare](https://tensflare.com/) — Tensflare offers a suite of AI-powered solutions designed to streamline business operations, particularly in contract management, legal workflows, and team collaboration.
+  - [ELZAI](https://www.elzai.com/) — ElizaAI is an innovative AI-driven platform designed to revolutionize the way we interact with technology by bridging the gap between human memory and AI.
+  - [HeliumOS](https://heliumhealth.com/helium-os/) — Helium Health is leveraging AI to streamline hospital operations, enhance patient care, and improve medical decision-making.
+  - [Unbabel](https://unbabel.com/) — This platform integrates machine translation with human editing to ensure high-quality translations that are contextually appropriate.
+  - [BetaLife Health](https://betalifehealth.com/) — An AI-powered platform enhancing blood supply management for hospitals. It integrates real-time data analytics to predict blood demand, optimize logistics, and connects donors to recipients, improving patient outcomes and reducing wastage.
+  - [Bunce](https://betalifehealth.com/) — A SaaS platform using AI to drive customer engagement and automate payment processes for African businesses, enabling smarter messaging, personalized campaigns, and better retention across channels like email, SMS, and WhatsApp.
+  - [Intron Health](https://speech.intron.health/login) — Provides AI-powered clinical speech recognition tailored to African accents, supporting doctors with faster, accurate documentation and improving the efficiency of Electronic Health Records in hospitals.
+  - [Lendsqr](https://lendsqr.com/nigeria) — A fintech startup using AI for advanced loan management and credit decisioning. Its loan origination platform leverages voice and video analysis to assess borrowers, improving access to credit for the underserved.
+  - [DRO Health](https://drohealth.com/) — An AI-driven telemedicine platform connecting patients with certified doctors remotely and providing digital health management, appointment scheduling, and AI-based triage tools.
+  - [E-doc Online](https://e-doconline.co.uk/home) — Offers an AI-powered compliance and credit intelligence solution, using real-time banking data to streamline onboarding and automate lending decisions for financial institutions.
+  - [GoNomad](https://gonomadhq.com/) — Helps freelancers and businesses in Africa use AI to automate business registration and receive payments internationally, bridging gaps for cross-border entrepreneurship
+  - [Middleman](https://www.midddleman.co/) — AI-enhanced sourcing and payments platform, streamlining and automating imports from China for African businesses with intelligent supply chain optimization.
+  - [Myltura](https://myitura.com/) — Digital health platform using AI to provide remote healthcare, diagnostic access, and integrated data services, supporting patients and providers with timely, personalized insights.
+  - [Pastel](https://www.pastel.africa/) — Delivers AI fraud detection and enterprise-grade automation solutions for banks and fintechs, improving security and transaction monitoring.
+  - [Scandium](https://getscandium.com/) — Specializes in AI-powered quality assurance for software teams, automating bug detection and accelerating product releases.
+  - [Interactif AI](https://www.interactif.ai/) — Builds conversational AI and chatbot solutions for enterprises, leveraging natural language processing for customer engagement and automation. 
+  - [Curacel](https://www.curacel.co/) — Integrates AI to automate insurance claims processing, expense validation, and fraud detection, serving healthcare insurers and financial institutions.
+  - [Richly AI Limited](https://richlyai.com/) — Applies machine learning to predictive analytics, process automation, and business intelligence for corporate clients in Nigeria.
+  - [AwaDoc](https://www.awadoc.com/) — AI-powered platform facilitating remote medical consultations and healthcare advice through conversational bots, increasing healthcare accessibility.
+  - [SeamlessHR](https://seamlesshr.com/) — Leverages AI for HR functions such as candidate screening, performance management, and workforce analytics, optimizing recruitment and employee development.
+  - [CapitalSage](https://www.capitalsage.ng/) — Embeds AI into digital banking solutions for credit scoring, personalized customer recommendations, and fraud detection, especially for underserved populations
 
 ---
 
