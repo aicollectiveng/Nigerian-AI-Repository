@@ -119,10 +119,12 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
 
 * **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
+  - [AfroSLM](https://afroslm.equalyz.ai/)
   - [YARNGPT](https://yarngpt.co/)  
   - [InkubaLM](https://lelapa.ai/inkubalm-a-small-language-model-for-low-resource-african-languages/)  
   - [African Languages Lab](https://www.africanlanguageslab.com/)
   - [CDIAL (Centre for Digitization of Indigenous African Languages)](https://indigenius.ai/)
+  - [NaijaVocies]
 * **[Academic-Industry Collaborations]()** – Research partnerships and co-development:  
   - [New Collaborations](#)  
   - [Other Collaborations](#)
@@ -244,7 +246,8 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ## Data & Open-Source Assets
 
-* **[Datasets]()** – A curated list of datasets supporting various African languages:  
+* **[Datasets]()** – A curated list of datasets supporting various African languages:
+  - [NaijaVoices](https://lanfrica.com/) – Igbo, Hausa, Yoruba
   - [TANZIL Dataset](https://tanzil.net/trans/) – Amharic, Hausa, Somali, Swahili, and others
   - [MENYO-20k Dataset](https://github.com/uds-lsv/menyo-20k_MT) – Yorùbá-English
   - [FFR Dataset](https://github.com/bonaventuredossou/ffr-v1) – Fon-French
@@ -263,18 +266,14 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [English-Swahili Dataset](https://gamayun.translatorswb.org/download/gamayun-5k-english-swahili/) – English-Swahili
   - [English-Kanuri Dataset](https://gamayun.translatorswb.org/download/gamayun-mini-kit-5k-kanuri-english/) – English-Kanuri
   - [English-Akuapem Twi Dataset](https://zenodo.org/records/4432117#.YMEF3fkzbIU) – English-Akuapem Twi
-  - [FLORES-101 Dataset](#) – 20 African Languages
-  - [isiXhosa-English Dataset](#) – isiXhosa-English
-  - [Tatoeba Dataset](#) – 28 African Languages
-  - [Gnome Dataset](#) – 16 African Languages
-  - [Ubuntu Dataset](#) – 24 African Languages
-  - [OPUS-100 Dataset](#) – 9 African Languages
-  - [TICO-19 Dataset](#) – 13 African Languages
-  - [Mozilla Localization Dataset](#) – 18 African Languages
-  - [KINNEWS and KIRNEWS Dataset](#) – Kinyarwanda, Kirundi
-  - [Setswana and Sepedi News Dataset](#) – Setswana, Sepedi
-  - [Swahili News Dataset](#) – Swahili
-  - [Amharic News Text Classification Dataset](#) – Amharic
+  - [FLORES+ Dataset](https://huggingface.co/datasets/openlanguagedata/flores_plus) – 20 African Languages
+  - [Tatoeba Dataset](https://huggingface.co/datasets/Helsinki-NLP/tatoeba) – 28 African Languages
+  - [Ubuntu Dataset](https://huggingface.co/datasets/sedthh/ubuntu_dialogue_qa) – 24 African Languages
+  - [OPUS-100 Dataset](https://opus.nlpl.eu/OPUS-100) – 9 African Languages
+  - [KINNEWS and KIRNEWS Dataset](https://huggingface.co/datasets/andreniyongabo/kinnews_kirnews) – Kinyarwanda, Kirundi
+  - [Setswana and Sepedi News Dataset](https://arxiv.org/abs/2004.13842) – Setswana, Sepedi
+  - [Swahili News Dataset](https://www.kaggle.com/datasets/alfredkondoro/swahili-news-classification-zindi) – Swahili
+  - [Amharic News Text Classification Dataset](https://www.kaggle.com/datasets/mathurinache/amharicnewstextclassificationdataset) – Amharic
   - [VOA Hausa and BBC Yoruba News Classification Dataset](https://github.com/Andrews2017/af) – Hausa, Yoruba
   - [NaijaWeb Dataset](#) – Nigerian Pidgin, English
   - [MasakhaNER 2.0 Dataset](https://lacunafund.org/datasets/language/) – 20 African Languages
