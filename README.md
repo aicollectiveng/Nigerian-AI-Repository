@@ -107,7 +107,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ## Nigerian AI Portfolio
 
-* ### **[Public & NGO-Led Initiatives]()** – Includes projects by:  
+* ### **[Public & NGO-Led Initiatives]()** – 
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
   - [National Centre for Artificial Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/) -  Nigeria’s flagship research and development center focusing on AI, robotics, and fourth industrial revolution technologies. Supports innovation through research, infrastructure, and skills development.
   - [UNILAG NITHUB](https://nithub.unilag.edu.ng/) - A NITDA-funded initiative serving as a premier technology innovation hub. NitHub provides an enabling environment for developers, startups, and students to collaborate, receive mentorship, and build digital skills.
@@ -119,7 +119,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Nigeria National AI Trust](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - The world's first government-backed trust dedicated to AI, designed to mobilize resources, guide development, and ensure ethical oversight of AI’s national impact.
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
 
-* ### **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
+* ### **[Tools & Platforms]()** – 
   - [AfroSLM](https://afroslm.equalyz.ai/) - Developed by EqualyzAI, AfroSLM is a small language model designed for African languages, with a financial focus for Yoruba and also supporting general reasoning in Nigerian indigenous languages. It enables AI-powered translation and language understanding, helping to digitize and preserve local languages.
   - [YARNGPT](https://yarngpt.co/) - An advanced text-to-speech AI platform for Nigerian languages, YarnGPT allows users to convert written text to speech in Yoruba, Igbo, Hausa, and English—offering both male and female authentic Nigerian voices, useful for education, accessibility, content creation, and business localization.
   - [InkubaLM](https://lelapa.ai/inkubalm-a-small-language-model-for-low-resource-african-languages/) - InkubaLM is a small language model targeted at low-resource African languages, aiming to provide NLP resources for underrepresented languages in Nigeria and Africa.
@@ -133,11 +133,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Nigeria Learning Paasport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
   
   
-* ### **[Academic-Industry Collaborations]()** – Research partnerships and co-development:  
+* ### **[Academic-Industry Collaborations]()** –
   - [New Collaborations](#)  
   - [Other Collaborations](#)
 
-* ### **[Published Papers by Nigerian Researchers]()** – Peer-reviewed research from Nigerians in AI:
+* ### **[Published Papers by Nigerian Researchers]()** –
   - [AI in Nigeria – Opportunities, challenges and strategic pathways](https://www.lbs.edu.ng/wp-content/uploads/2025/05/ai-in-nigeria-whitepaper.pdf)  
   - [How Effective Are AI Models in Translating English Scientific Texts to Nigerian Pidgin: A Low-resource Language?](https://openreview.net/pdf?id=hDzVxEUN5C)  
   - [Geo-Semantics Analysis of Environmental Disasters in Nigeria](https://www.climatechange.ai/papers/iclr2025/53)
@@ -207,13 +207,13 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 ## Events
 
-* **[Webinars by Sectoral Champions]()** – Examples:  
+* **[Webinars by Sectoral Champions]()** – 
   - [AI in Education - ](#)  
   - [AI in Finance - ](#)
   - [AI in Health - ](#)
-    - [Smarter Health, Stronger Systems: Uniting AI and Human Capital for Scalable Community Health Impact](https://youtu.be/6CddcfM4amc?si=1-5JiIPLwgbc4yZk)
+    - [Smarter Health, Stronger Systems: Uniting AI and Human Capital for Scalable Community Health Impact Webinar](https://youtu.be/6CddcfM4amc?si=1-5JiIPLwgbc4yZk)
 
-* **[Hackathon]()** – Competitions & challenges:  
+* **[Hackathon]()** – 
   - [Zindi Africa Competitions](https://zindi.africa/)  
   - [DSN AI Bootcamp](https://datasciencenigeria.org/2025_aibootcamp/)
   - [ISACA Abuja Code4Privacy Hackathon 2025](https://www.hackathon.isacaabuja.org/)
@@ -231,7 +231,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 
 * ### **[Onsite Events]()** – Past physical conferences & roundtables:  
   - [Nigerian AI Summit](#)  
-  - [AI National Roundtable - 2024](#)
+  - [AI National Roundtable](#)
 
 ---
 
@@ -245,7 +245,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 * **[Diaspora Connect Portal]()** – A platform to collaborate with global Nigerian AI experts.  
   - [Link Placeholder](#)
 
-* **[Registration Form](https://ncair.nitda.gov.ng/aicollective/)** – Join the AI Collective.
+* **[Registration Form](https://forms.gle/eGtSNSMowgMSjD4H7)** – Join the AI Collective.
 
 ---
 
