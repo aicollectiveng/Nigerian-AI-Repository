@@ -110,6 +110,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 * **[Public & NGO-Led Initiatives]()** – Includes projects by:  
   - [Nigeria AI Scaling Hub](https://fmcide.gov.ng/nigeria-launches-ai-scaling-hub-in-collaboration-with-gates-foundation-to-accelerate-impact-in-health-education-and-agriculture/) - A multi-stakeholder initiative by the Federal Ministry of Communications, Innovation & Digital Economy and the Gates Foundation. It accelerates scaling of impactful AI solutions in health, education, and agriculture, supporting innovators with resources and mentorship.
   - [National Centre for Artificial Intelligence and Robotics (NCAIR)](https://ncair.nitda.gov.ng/) -  Nigeria’s flagship research and development center focusing on AI, robotics, and fourth industrial revolution technologies. Supports innovation through research, infrastructure, and skills development.
+  - [UNILAG NITHUB](https://nithub.unilag.edu.ng/) - A NITDA-funded initiative serving as a premier technology innovation hub. NitHub provides an enabling environment for developers, startups, and students to collaborate, receive mentorship, and build digital skills.
   - [AI In Nigeria (AIN) Platform](https://aiinnigeria.com/about-us/) - A broad-based movement aiming to establish Nigeria as a global AI hub, facilitating innovation and partnerships across government and civil society.
   - [Service-Wise GPT – Public Service Transformation](https://www.ohcsf.gov.ng/post-nigeria_unveils_ai_driven_public_service_transformation__at_global_government_summit_2025) - A government-led initiative providing AI-powered tools (like Service-Wise GPT) to revolutionize public service delivery and citizen engagement.
   - [Collaborative Centre for AI, Nigeria (CCAI)](https://www.cosmopolitan.edu.ng/collaborative-centre-for-ai) - A multidisciplinary hub for collaborative research and development across academic and public sectors, advancing AI technologies and governance.
@@ -119,12 +120,19 @@ By engaging with the AI Collective, you join a global effort to make artificial 
   - [Digital Inclusion and Universal Communication Access Project](https://techafricanews.com/2025/02/05/nigeria-advances-ai-and-connectivity-with-two-major-government-initiatives/) - Federal initiative expanding broadband and digital infrastructure to unserved and underserved areas, laying essential groundwork for equitable AI access and innovation.
 
 * **[Tools & Platforms]()** – Open-source and commercial platforms built in Nigeria:  
-  - [AfroSLM](https://afroslm.equalyz.ai/)
-  - [YARNGPT](https://yarngpt.co/)  
-  - [InkubaLM](https://lelapa.ai/inkubalm-a-small-language-model-for-low-resource-african-languages/)  
-  - [African Languages Lab](https://www.africanlanguageslab.com/)
-  - [CDIAL (Centre for Digitization of Indigenous African Languages)](https://indigenius.ai/)
-  - [NaijaVocies]
+  - [AfroSLM](https://afroslm.equalyz.ai/) - Developed by EqualyzAI, AfroSLM is a small language model designed for African languages, with a financial focus for Yoruba and also supporting general reasoning in Nigerian indigenous languages. It enables AI-powered translation and language understanding, helping to digitize and preserve local languages.
+  - [YARNGPT](https://yarngpt.co/) - An advanced text-to-speech AI platform for Nigerian languages, YarnGPT allows users to convert written text to speech in Yoruba, Igbo, Hausa, and English—offering both male and female authentic Nigerian voices, useful for education, accessibility, content creation, and business localization.
+  - [InkubaLM](https://lelapa.ai/inkubalm-a-small-language-model-for-low-resource-african-languages/) - InkubaLM is a small language model targeted at low-resource African languages, aiming to provide NLP resources for underrepresented languages in Nigeria and Africa.
+  - [African Languages Lab](https://www.africanlanguageslab.com/) - This initiative provides community-driven resources, research, and collaboration on African language technology, supporting linguistic diversity across the continent.
+  - [CDIAL (Centre for Digitization of Indigenous African Languages)](https://indigenius.ai/) - CDIAL is focused on digitizing and preserving African indigenous languages, supporting research, data collection, and the development of language technologies.
+  - [OBTranslate](https://www.obtranslate.org/) - Founded by Emmanuel Gabriel, OBTranslate is a deep learning AI platform capable of translating over 2,000 African languages, aiming to break communication barriers across Africa and enable digital trade, services, and inclusion. Its neural network processes billions of translation tasks for diverse applications.
+  - [Igbo API](https://igboapi.com/) - The first open-source, multi-purpose API for the Igbo language, providing features like automatic speech recognition, machine translation, and an Igbo dictionary via REST API. Built with community data, it provides essential tools for developers working on Igbo/Nigerian language apps.
+  - [LangEasy](https://www.awarri.com/langeasy) - A data collection platform by Awarri that enables users to record and translate sentences into Nigerian languages (Yoruba, Hausa, Igbo, Pidgin, Ibibio), powering AI language models with community-contributed data.
+  - [Nkenne](https://www.nkenne.com/) - A learning app offering lessons and translation features for Nigerian languages such as Igbo, Yoruba, Hausa, Nigerian Pidgin, and more, with mobile-first experiences for language learning and localization.
+  - [Wazobia Translator](https://wazobia-translator.soft112.com/#:~:text=Wazobia%20Translator%20is%20a%20simple,%2C%20Igbo%20to%20Hausa%2C%20etc.) - An open-source chatbot and translator available on GitHub, Wazobia can translate between English and Nigeria’s three top languages: Hausa, Igbo, and Yoruba. Designed as a tool for developers and language learners.
+  - [Nigeria Learning Paasport](https://nlp.education.gov.ng/) - A government and UNICEF initiative, it is an e-learning and language platform supporting core Nigerian languages. It provides online and offline language lessons and digital education resources, aiming for inclusivity and accessibility for all children.
+  
+  
 * **[Academic-Industry Collaborations]()** – Research partnerships and co-development:  
   - [New Collaborations](#)  
   - [Other Collaborations](#)
@@ -287,6 +295,7 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 * **[Codebases](https://github.com/NITDA-AICollective)** – AI repos by Nigerian developers and institutions.
 
 * **[API Libraries & Frameworks]()**  
+  - [Igbo API](https://igboapi.com/)
   - [Hugging Face – Nigerian Language Models](https://huggingface.co/models)  
   - [African NLP Tools](#)
 
