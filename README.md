@@ -196,7 +196,11 @@ By engaging with the AI Collective, you join a global effort to make artificial 
 * **[NAIS Unveiling and Launch Media](https://nairametrics.com/2025/04/16/nigeria-launches-national-ai-strategy-to-drive-ai-development-and-productivity/)**
 
 * **[Government Involvement](https://nitda.gov.ng/)** – Key agencies:  
-  - [NITDA](https://nitda.gov.ng)  
+  - [NITDA](https://nitda.gov.ng) 
+  - [NCAIR](https://ncair.nitda.gov.ng/)
+  - [NDPC](https://ndpc.gov.ng/)
+  - [NCC](https://www.ncc.gov.ng/)
+  - [FCCPC](https://fccpc.gov.ng/)
   - [Federal Ministry of Communications, Innovation & Digital Economy](https://www.fmcide.gov.ng/)
 
 ---
